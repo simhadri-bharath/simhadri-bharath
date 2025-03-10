@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simhadri-bharath
-- 👀 I’m interested in ... JAva Development 
+- 👀 I’m interested in ... Java Development 
 - 🌱 I’m currently learning ... Spring boot  React
 - 💞️ I’m looking to collaborate on ... New Innovative Projects and collabrate with groups
 - 📫 How to reach me ... simhadribahrath2004@gmail.com
