@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @simhadri-bharath
-- 👀 I’m interested in ... Java Development 
-- 🌱 I’m currently learning ... Spring boot  React
+- 👀 I’m interested in ... Software Development 
+- 🌱 I’m currently learning ... Express 
+- Skilled in React,Spring boot, Java
 - 💞️ I’m looking to collaborate on ... New Innovative Projects and collabrate with groups
 - 📫 How to reach me ... simhadribahrath2004@gmail.com
 - 😄 Pronouns: ... curious,explorer
